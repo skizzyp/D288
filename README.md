@@ -1,2 +1,2 @@
 # D288
-This is a project focused on building a Springboot backend to support an existing Angular frontend.
+This project creates a Spring back-end to integrate with an Angular front-end.  
